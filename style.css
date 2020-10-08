@@ -1,0 +1,14 @@
+main {
+    padding: 100px;
+    text-align: center;
+}
+
+.coun {
+    font-size: 10rem;
+    /* display: flex;
+    justify-content: center; */
+}
+
+button {
+    cursor: pointer;
+}
